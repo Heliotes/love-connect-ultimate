@@ -1,0 +1,13 @@
+{
+  "name": "Love Connect Ultimate",
+  "short_name": "LoveConnect",
+  "description": "O app privado do casal.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7f9",
+  "theme_color": "#c2255c",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

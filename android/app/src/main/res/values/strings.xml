@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Love Connect Ultimate</string>
+    <string name="title_activity_main">Love Connect Ultimate</string>
+    <string name="package_name">com.loveconnect.ultimate</string>
+    <string name="custom_url_scheme">com.loveconnect.ultimate</string>
+</resources>
